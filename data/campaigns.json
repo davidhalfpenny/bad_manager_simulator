@@ -1,0 +1,34 @@
+{
+  "campaigns": [
+    {
+      "id": "middle-to-senior",
+      "file": "promotion.json",
+      "status": "available",
+      "image": "assets/promotion.svg"
+    },
+    {
+      "id": "change-management",
+      "title": "The Change Initiative",
+      "subtitle": "Transform everything. Improve nothing.",
+      "status": "coming-soon"
+    },
+    {
+      "id": "performance-reviews",
+      "title": "The Performance Review",
+      "subtitle": "Measure everything except performance.",
+      "status": "coming-soon"
+    },
+    {
+      "id": "crisis-management",
+      "title": "The Crisis Committee",
+      "subtitle": "Escalate the meeting. Not the problem.",
+      "status": "coming-soon"
+    },
+    {
+      "id": "culture-war",
+      "title": "The Culture Reset",
+      "subtitle": "Mandatory fun is still mandatory.",
+      "status": "coming-soon"
+    }
+  ]
+}

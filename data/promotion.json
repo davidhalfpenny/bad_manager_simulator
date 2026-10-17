@@ -1,0 +1,302 @@
+{
+  "id": "middle-to-senior",
+  "title": "The Promotion Trap",
+  "subtitle": "From middle management to the executive floor",
+  "description": "Five corporate crises. Four deeply suspicious metrics. One promotion you absolutely do not deserve.",
+  "startRank": "Middle Manager",
+  "stages": [
+    {
+      "dept": "OPERATIONS / RESOURCE OPTIMISATION",
+      "title": "The Productivity Crisis",
+      "text": "Your team has finished its work ahead of schedule. Senior management is worried this means they have too much spare time. Your director wants to see decisive leadership.",
+      "options": [
+        {
+          "label": "Introduce compulsory daily progress meetings.",
+          "title": "Communication has never been stronger.",
+          "text": "Productivity drops. Meeting attendance hits 100%. You receive a leadership award for improving alignment.",
+          "delta": [
+            14,
+            -16,
+            -10,
+            -5
+          ]
+        },
+        {
+          "label": "Reduce headcount to capture efficiency savings.",
+          "title": "A leaner, meaner disaster.",
+          "text": "The remaining team is overwhelmed. Finance applauds your cost discipline. Nobody asks whether the work still gets done.",
+          "delta": [
+            19,
+            -24,
+            -22,
+            -8
+          ]
+        },
+        {
+          "label": "Raise every target by 40%.",
+          "title": "Ambition successfully deployed.",
+          "text": "Your best employees resign. HR calls this an exciting opportunity to refresh the talent pipeline.",
+          "delta": [
+            16,
+            -21,
+            -28,
+            -6
+          ]
+        },
+        {
+          "label": "Explain that a high-performing team is a good thing.",
+          "title": "An uncomfortable commitment to reality.",
+          "text": "The team appreciates your support. Your director questions whether you have the hunger required for senior leadership.",
+          "delta": [
+            -13,
+            15,
+            17,
+            18
+          ]
+        }
+      ],
+      "speaker": "sven"
+    },
+    {
+      "dept": "PEOPLE & CULTURE / ENGAGEMENT",
+      "title": "The Morale Emergency",
+      "text": "The staff survey says morale is collapsing because of excessive meetings, impossible deadlines and poor management. HR recommends an urgent, highly visible intervention.",
+      "options": [
+        {
+          "label": "Run a compulsory half-day resilience workshop.",
+          "title": "Resilience achieved. Allegedly.",
+          "text": "Employees lose another half-day to meetings. Attendance is perfect, which HR reports as overwhelming support.",
+          "delta": [
+            13,
+            -10,
+            -17,
+            -8
+          ]
+        },
+        {
+          "label": "Establish a Culture Champions Committee.",
+          "title": "A committee is born.",
+          "text": "Twelve people are volunteered without being asked. The committee schedules a meeting to define its purpose.",
+          "delta": [
+            16,
+            -13,
+            -14,
+            -10
+          ]
+        },
+        {
+          "label": "Announce free pizza on Friday.",
+          "title": "A slice of transformation.",
+          "text": "Staff eat the pizza. The CEO describes your initiative as a breakthrough in employee experience.",
+          "delta": [
+            17,
+            -3,
+            3,
+            -8
+          ]
+        },
+        {
+          "label": "Cancel unnecessary meetings and adjust workloads.",
+          "title": "A suspiciously practical solution.",
+          "text": "Morale improves. Your boss wants to know why you did not launch a formal programme with a logo.",
+          "delta": [
+            -12,
+            15,
+            22,
+            15
+          ]
+        }
+      ],
+      "speaker": "janice"
+    },
+    {
+      "dept": "STRATEGY / DIGITAL TRANSFORMATION",
+      "title": "The Innovation Mandate",
+      "text": "The CEO wants every division to demonstrate measurable innovation by Friday. Nobody has defined innovation. The executive team has already ordered branded lanyards.",
+      "options": [
+        {
+          "label": "Create an Innovation Steering Committee.",
+          "title": "Governance is innovation.",
+          "text": "Six meetings are booked. The committee produces a logo, a charter and no innovations whatsoever.",
+          "delta": [
+            15,
+            -12,
+            -9,
+            -9
+          ]
+        },
+        {
+          "label": "Require three ideas from every employee.",
+          "title": "Ideation at scale.",
+          "text": "Four hundred ideas are submitted. None are read. The participation dashboard is a glorious shade of green.",
+          "delta": [
+            16,
+            -14,
+            -13,
+            -8
+          ]
+        },
+        {
+          "label": "Rebrand the existing workflow as AI-enabled.",
+          "title": "The future is now. Again.",
+          "text": "Nothing changes except the slide deck. The CEO calls your division a digital pioneer.",
+          "delta": [
+            23,
+            -7,
+            -8,
+            -17
+          ]
+        },
+        {
+          "label": "Give employees time to test useful ideas.",
+          "title": "Innovation accidentally occurs.",
+          "text": "Two valuable improvements emerge. Finance wants to know why staff were not doing their regular jobs.",
+          "delta": [
+            -10,
+            17,
+            13,
+            15
+          ]
+        }
+      ],
+      "speaker": "brad"
+    },
+    {
+      "dept": "GOVERNANCE / RISK & COMPLIANCE",
+      "title": "The Incident Report",
+      "text": "A customer has found a serious error in a report your division approved. Your director asks for an update before the board meeting in twenty minutes.",
+      "options": [
+        {
+          "label": "Rename the error an “emerging opportunity”.",
+          "title": "Narrative successfully controlled.",
+          "text": "The board congratulates you on your positive framing. The customer remains furious, but they were not invited to the meeting.",
+          "delta": [
+            19,
+            -13,
+            -11,
+            -18
+          ]
+        },
+        {
+          "label": "Create a working group to investigate ownership.",
+          "title": "Accountability has been distributed.",
+          "text": "Seven departments now share responsibility. This is functionally indistinguishable from nobody having responsibility.",
+          "delta": [
+            14,
+            -12,
+            -9,
+            -22
+          ]
+        },
+        {
+          "label": "Publish a dashboard showing 99% report accuracy.",
+          "title": "The numbers speak for themselves.",
+          "text": "You exclude the faulty report as an outlier. The dashboard is green. The problem is not.",
+          "delta": [
+            20,
+            -16,
+            -13,
+            -19
+          ]
+        },
+        {
+          "label": "Own the mistake and tell the customer how it will be fixed.",
+          "title": "A regrettable outbreak of integrity.",
+          "text": "The customer stays. The team learns something. Your director says you have made the situation unnecessarily visible.",
+          "delta": [
+            -14,
+            15,
+            15,
+            25
+          ]
+        }
+      ],
+      "speaker": "sarah"
+    },
+    {
+      "dept": "EXECUTIVE OFFICE / CAREER DEVELOPMENT",
+      "title": "The Final Promotion",
+      "text": "The organisation is in turmoil. The CEO needs a new Chief Transformation Officer to lead a company-wide turnaround. You have five minutes to make your pitch.",
+      "options": [
+        {
+          "label": "Promise a bold transformation roadmap with seven workstreams.",
+          "title": "The roadmap is the destination.",
+          "text": "The CEO is impressed by your ambition. A consultant is hired to explain what the workstreams mean.",
+          "delta": [
+            22,
+            -12,
+            -11,
+            -15
+          ]
+        },
+        {
+          "label": "Blame legacy culture and propose a complete restructure.",
+          "title": "The future requires fewer witnesses.",
+          "text": "Your predecessor is blamed. Three layers of management are added to make the organisation flatter.",
+          "delta": [
+            20,
+            -20,
+            -20,
+            -19
+          ]
+        },
+        {
+          "label": "Present a glossy dashboard of all your achievements.",
+          "title": "Presentation is everything.",
+          "text": "Every metric is green because you designed the metrics. The CEO is delighted by your evidence-based approach.",
+          "delta": [
+            24,
+            -15,
+            -12,
+            -20
+          ]
+        },
+        {
+          "label": "Describe the problems honestly and propose achievable fixes.",
+          "title": "You may have misunderstood the assignment.",
+          "text": "Your plan would probably work. The board worries you lack the visionary mindset required to lead transformation.",
+          "delta": [
+            -16,
+            18,
+            19,
+            22
+          ]
+        }
+      ],
+      "speaker": "richard"
+    }
+  ],
+  "defaults": {
+    "visibility": 40,
+    "productivity": 75,
+    "morale": 70,
+    "accountability": 65
+  },
+  "characters": {
+    "sven": {
+      "name": "Sven",
+      "role": "Your long-suffering colleague",
+      "initials": "SV"
+    },
+    "janice": {
+      "name": "Janice",
+      "role": "Director of People & Culture",
+      "initials": "JA"
+    },
+    "brad": {
+      "name": "Brad",
+      "role": "Head of Strategic Transformation",
+      "initials": "BR"
+    },
+    "sarah": {
+      "name": "Sarah",
+      "role": "Senior Analyst",
+      "initials": "SA"
+    },
+    "richard": {
+      "name": "Richard",
+      "role": "Chief Executive Officer",
+      "initials": "RW"
+    }
+  }
+}
